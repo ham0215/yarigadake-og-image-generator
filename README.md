@@ -7,7 +7,7 @@ useCase: Edge Functions
 css: Tailwind
 deployUrl: https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/edge-functions/vercel-og-nextjs&project-name=vercel-og-nextjs&repository-name=vercel-og-nextjs
 demoUrl: https://og-examples.vercel.sh/api/static
-relatedTemplates: 
+relatedTemplates:
   - nextjs-boilerplate
   - aws-s3-image-upload-nextjs
   - platforms-starter-kit
@@ -55,11 +55,6 @@ Next, run Next.js in development mode:
 ```bash
 npm install
 npm run dev
-
-# or
-
-yarn
-yarn dev
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=edge-middleware-eap) ([Documentation](https://nextjs.org/docs/deployment)).
