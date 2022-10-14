@@ -40,7 +40,7 @@ export default function handler(req: NextRequest) {
             < img
               alt="yarigadake"
               width="100%"
-              src="http://localhost:3000/yarigadake.jpg"
+              src="https://yarigadake-og-image-generator.vercel.app/yarigadake.jpg"
             />
             <p
               style={{
